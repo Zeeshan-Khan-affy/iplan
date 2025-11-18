@@ -78,7 +78,7 @@ export default function Navbar() {
             {/* Mobile Dropdown */}
             {menuOpen && (
                 <div className="md:hidden bg-white shadow-md px-6 py-4 space-y-4">
-                    <Link href="/" className="block">Home</Link>
+                    <Link href="/" className="block">Homes</Link>
                     <Link href="/about" className="block">About</Link>
                     <Link href="/services" className="block">Services</Link>
                     <Link href="/contact" className="block">Contact</Link>
