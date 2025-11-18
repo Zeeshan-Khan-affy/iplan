@@ -20,7 +20,7 @@ export default function Navbar() {
 
                     {/* Email */}
                     <p className="text-gray-600 text-sm border-l pl-4">
-                        contact@jegstudio.com
+                        contact@jegstudio.commmmmmm
                     </p>
                 </div>
 
