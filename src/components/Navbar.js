@@ -32,7 +32,7 @@ export default function Navbar() {
                         href="/"
                         className="px-3 py-1 bg-teal-50 text-teal-700 rounded-md"
                     >
-                        Home
+                        Homes
                     </Link>
 
                     <Link href="/about" className="hover:text-teal-600 transition">
